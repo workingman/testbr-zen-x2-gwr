@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "87a45d37-7209-49fc-99f9-89c9b43bc1da"
+      folderName = "sbox-zen-x2-gwr"
+    },
+  ]
+}
